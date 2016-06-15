@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+.titleSection, .contactList {
+  margin-left: 5%;
+}
+
+.formSection {
+  display: inline-block;
+  width: 40%;
+  margin: 0% 5% 0% 5%;
+}
+
+.contactDetails {
+  vertical-align: top;
+  display: inline-block;
+}
