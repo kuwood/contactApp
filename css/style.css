@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+a {
+  cursor: pointer;
+}
+
 .titleSection, .contactList {
   margin-left: 5%;
 }
